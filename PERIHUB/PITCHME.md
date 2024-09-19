@@ -4,7 +4,7 @@ theme: dlr
 header: ""
 footer: ""
 title: Introduction to PeriHub
-author: Jan-Timo Hesse, Christian Willberg
+author: Jan-Timo Hesse, Vineeth Ravi
 ---
 
 <script type="module">
@@ -20,7 +20,7 @@ author: Jan-Timo Hesse, Christian Willberg
     <img src="assets/qr.png" alt="Presentation link" style="height:180px;width:auto;vertical-align: top;background-color:transparent;">
 </div>
 
-Jan-Timo Hesse<a href="https://orcid.org/0000-0002-3006-1520"><img src="../assets/ORCIDiD_iconvector.png" alt="ORCID Symbol" style="height:15px;width:auto;vertical-align: top;background-color:transparent;"></a>, Christian Willberg<a href="https://orcid.org/0000-0003-2433-9183"><img src="../assets/ORCIDiD_iconvector.png" alt="ORCID Symbol" style="height:15px;width:auto;vertical-align: top;background-color:transparent;"></a>
+Jan-Timo Hesse<a href="https://orcid.org/0000-0002-3006-1520"><img src="../assets/ORCIDiD_iconvector.png" alt="ORCID Symbol" style="height:15px;width:auto;vertical-align: top;background-color:transparent;"></a>, Vineeth Ravi<a href="https://orcid.org/0000-0003-2433-9183"><img src="../assets/ORCIDiD_iconvector.png" alt="ORCID Symbol" style="height:15px;width:auto;vertical-align: top;background-color:transparent;"></a>
 <br />
 
 > <a href="https://sites.google.com/usacm.org/pd25/home" style="color: black; text-decoration: underline;">PeriHub - Empowering Research with Peridynamic Modeling</a> 
@@ -34,6 +34,12 @@ Presentation URL: https://perihub.github.io/Presentations/PERIHUB
 
 <!--paginate: true-->
 <!--footer: 'Pres. URL: https://perihub.github.io/Presentations/PERIHUB'-->
+
+## FEM
+
+![bg right width:350px](https://avatars.githubusercontent.com/u/102970205?v=4)
+
+---
 
 ## PeriHub
 
